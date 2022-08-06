@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Aug  6 21:46:19 2022
+# Process ID: 19444
+# Current directory: F:/Digital System Designing using Verilog/System Design Using Verilog/Verilog_files/Gate Levl Modelling/2_3bit_squarer/2_3bit_squarer.runs/synth_1
+# Command line: vivado.exe -log squarer_3b.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source squarer_3b.tcl
+# Log file: F:/Digital System Designing using Verilog/System Design Using Verilog/Verilog_files/Gate Levl Modelling/2_3bit_squarer/2_3bit_squarer.runs/synth_1/squarer_3b.vds
+# Journal file: F:/Digital System Designing using Verilog/System Design Using Verilog/Verilog_files/Gate Levl Modelling/2_3bit_squarer/2_3bit_squarer.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source squarer_3b.tcl -notrace

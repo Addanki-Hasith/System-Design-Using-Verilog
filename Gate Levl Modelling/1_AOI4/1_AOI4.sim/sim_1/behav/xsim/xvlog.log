@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Digital System Designing using Verilog/System Design Using Verilog/Verilog_files/Gate Levl Modelling/1_AOI4/1_AOI4.srcs/sources_1/new/aio4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aio4
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Digital System Designing using Verilog/System Design Using Verilog/Verilog_files/Gate Levl Modelling/1_AOI4/1_AOI4.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
