@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../7_1bitComparator/7_1bitComparator.srcs/sources_1/new/comparator_1bit.v" \
+"../../../../8_comparator_2bit.srcs/sources_1/new/comparator_2bit.v" \
+"../../../../8_comparator_2bit.srcs/sim_1/new/comparator_2bit_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

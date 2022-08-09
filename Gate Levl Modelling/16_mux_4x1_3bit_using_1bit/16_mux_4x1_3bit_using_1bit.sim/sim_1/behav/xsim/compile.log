@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Digital System Designing using Verilog/System-Design-Using-VerilogHDL/Gate Levl Modelling/15_mux_4x1_1bit/15_mux_4x1_1bit.srcs/sources_1/new/mux_4x1_1bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_4x1_1bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Digital System Designing using Verilog/System-Design-Using-VerilogHDL/Gate Levl Modelling/16_mux_4x1_3bit_using_1bit/16_mux_4x1_3bit_using_1bit.srcs/sources_1/new/mux_4x1_3bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_4x1_3bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Digital System Designing using Verilog/System-Design-Using-VerilogHDL/Gate Levl Modelling/16_mux_4x1_3bit_using_1bit/16_mux_4x1_3bit_using_1bit.srcs/sim_1/new/mux_4x1_3bit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_4x1_3bit_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Digital System Designing using Verilog/System-Design-Using-VerilogHDL/Gate Levl Modelling/16_mux_4x1_3bit_using_1bit/16_mux_4x1_3bit_using_1bit.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

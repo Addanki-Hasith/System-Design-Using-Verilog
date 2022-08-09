@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Digital System Designing using Verilog/System-Design-Using-VerilogHDL/Gate Levl Modelling/12_encoder_8x3bit/12_encoder_8x3bit.srcs/sources_1/new/encoder_3x8bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module encoder_3x8bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Digital System Designing using Verilog/System-Design-Using-VerilogHDL/Gate Levl Modelling/12_encoder_8x3bit/12_encoder_8x3bit.srcs/sim_1/new/encoder_8x3bit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module encoder_8x3bit_tb
